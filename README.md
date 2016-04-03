@@ -6,8 +6,8 @@ Componenta echipelor
 | Liderul echipei  |	Echipa     |
 |:----------|:-------------|
 | Alexandra |    Integrare   | 
-| Vlad |    GUI   | 
-| Ramon |    AR @ Camera   |
+| Ramon |    GUI   | 
+| Vlad |    AR @ Camera   |
 | Beatrice |    DB   | 
 | Sergiu |    Maps   | 
 | Costel |    Server   | 
