@@ -28,6 +28,6 @@ Componenta echipelor
 | - |    Maps   | [1](http://www.google.ro) [2](http://www.google.ro) |
 | - |    Maps   | [1](http://www.google.ro) [2](http://www.google.ro) |
 | **Cirdei Costel** |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
-| Edu Dorin |    -   | [1](http://www.google.ro) [2](http://www.google.ro) |
-| Ferestraoaru Andrei |    -   | [1](http://www.google.ro) [2](http://www.google.ro) |
-| Barzu Gabriel |    -   | [1](http://www.google.ro) [2](http://www.google.ro) |
+| Edu Dorin |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
+| Ferestraoaru Andrei |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
+| Barzu Gabriel |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
