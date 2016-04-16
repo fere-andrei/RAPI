@@ -46,3 +46,4 @@ Componenta echipelor
 | Edu Dorin |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
 | Ferestraoaru Andrei |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
 | Barzu Gabriel |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
+| Rata Alexandru |    Server   | [1](http://www.google.ro) [2](http://www.google.ro) |
